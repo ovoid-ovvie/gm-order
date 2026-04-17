@@ -6,7 +6,7 @@
 
 ## 1. Download Order
 
-Go to the [Releases](../../releases) page and download the latest `.yymps` file.
+Go to the [Releases](../../../releases) page and download the latest `.yymps` file.
 
 ## 2. Import into GameMaker
 
