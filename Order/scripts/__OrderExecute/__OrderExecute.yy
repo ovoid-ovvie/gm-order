@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__OrderExecute",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__OrderExecute",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Order/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

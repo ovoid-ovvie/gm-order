@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"OrderCustomData",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"OrderCustomData",
+  "parent":{
+    "name":"Order",
+    "path":"folders/Order.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
