@@ -47,3 +47,10 @@ See the [Setup](Docs/Setup.md) page to get Order integrated into your project.
 - [Adding Commands](Docs/Adding-Commands.md)
 - [Configuration](Docs/Configuration.md)
 - [API Reference](Docs/API-Reference.md)
+
+---
+
+## Font
+
+The font used for the console is [Pixeloid](https://ggbot.itch.io/pixeloid-font) by ggbot. It uses the SIL Open Font License, Version 1.1.
+This license is available with a FAQ [here](https://scripts.sil.org/OFL).
